@@ -18,7 +18,7 @@
 - **Decoder:** 3-stage prediction refinement via cross-attention and residual decay.
 - **Input:** I3D features of shape (T × D), dropout = `0.3`
 - **Optimizer:** Adam, learning rate = `0.0005`
-- **Epochs:** 120
+- **Epochs:** 180
 
 ![LID-ASFormer Architecture](arch.png)
 
